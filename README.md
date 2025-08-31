@@ -1,5 +1,5 @@
 
-- 💬 Ask me about Data Science, AI/ML , Python Development
+- 💬 Ask me about AI, Machine Learning, and Python Development
 - 📫 How to reach me yawermunir363@gmail.com
 ## Skills & Expertise  
 
