@@ -1,3 +1,6 @@
+
+- 💬 Ask me about Data Science, AI/ML , Python Development
+- 📫 How to reach me najmarazzaq761@gmail.com
 ## Skills & Expertise  
 
 **Coding Languages:**  
