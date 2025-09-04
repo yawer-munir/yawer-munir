@@ -1,6 +1,6 @@
 
 - 💬 Ask me about AI, Machine Learning, and Python Development
-- 📫 How to reach me yawermunir363@gmail.com
+- 📫 How to reach me yawermunir363@gmail.com   [linkedin](https://www.linkedin.com/in/yawar363/)
 ## Skills & Expertise  
 
 **Coding Languages:**  Python, C/C++, SQL, C#, JavaScript, PHP  
